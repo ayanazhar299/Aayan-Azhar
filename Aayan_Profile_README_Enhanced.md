@@ -15,21 +15,11 @@
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Current Projects I'm working on
 - 🧮 **Math Solver** – Python scripts for quadratic equations & probability.  
 - 📊 **Data Visualization** – Sports & SAT score visualizations with matplotlib.  
 - 🚦 **Traffic Flow Simulation** – Applying math to simulate traffic congestion.  
 - 🌐 Learning **Flask** to build simple web apps.  
-
----
-
-## 📌 Featured Repositories
-- [Math Solver](https://github.com/username/math-solver)  
-- [Data Visualization](https://github.com/username/data-visualization)  
-- [Traffic Flow Simulation](https://github.com/username/traffic-simulation)  
-- [Flask Web App](https://github.com/username/flask-webapp)  
-
-*(Replace `username` with your GitHub username once repos are live)*  
 
 ---
 
@@ -43,8 +33,4 @@
 ## 📫 Connect with Me
 - 💼 LinkedIn (coming soon)  
 - 🌐 Personal website (in progress)  
-- 📧 Email: *optional*  
-
----
-
-✨ Fun fact: I like badminton, statistics, and coding projects that make math come alive!  
+- 📧 Email: ayanazhar299@gmail.com 
