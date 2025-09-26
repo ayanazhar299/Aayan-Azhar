@@ -1,6 +1,6 @@
 <!-- Header: animated typing -->
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F118&width=435&lines=Hi%2C+I%E2%80%99m+Aayan+%F0%9F%91%8B;%F0%9F%93%8A+Applied+Mathematics+%C3%97+Computer+Science+enthusiast;%F0%9F%92%BB+Exploring+algorithms%2C+data+science%2C+and+clean+code)](https://git.io/typing-svg)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=00FFFF&size=18&vCenter=true&height=18&lines=Hi%2C+I'm+Aayan!;Applied+Math+%C3%97+Computer+Science;There's+no+place+like+127.0.0.1" alt="Typing SVG" />
 </p>
 
 <p align="center">
