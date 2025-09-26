@@ -18,7 +18,7 @@ I build math solvers, create data analysis tools, and enjoy applying theory to r
 
 ### 🚀 Featured Projects
 - **Math Solver (CLI + Rich UI)** — Quadratics, binomial probability, descriptive stats  
-  `Python · Typer · Rich · NumPy` · **[Repo]((https://github.com/ayanazhar299/Math-Solver))**
+  `Python · Typer · Rich · NumPy` · **[Repo](https://github.com/ayanazhar299/Math-Solver)**
 - **Data Visualization Toolkit** — Reusable plotting helpers + demo gallery  
   `Python · Pandas · Matplotlib` · **[Repo](https://github.com/ayanazhar299/Data-Visualisation)**
 
