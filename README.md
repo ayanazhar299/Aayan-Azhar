@@ -9,8 +9,6 @@
   <img alt="Last updated" src="https://img.shields.io/badge/updated-today-success">
 </p>
 
-<h1 align="center">Applied Math × CS • SAT 1540 • Badminton (National)</h1>
-
 Passionate Applied Mathematics & Computer Science student exploring the intersection of problem-solving, algorithms, and data visualization.
 I build math solvers, create data analysis tools, and enjoy applying theory to real-world problems through projects, competitions, and research.
 
