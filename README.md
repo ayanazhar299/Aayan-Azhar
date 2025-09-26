@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F118&width=435&lines=Hi%2C+I%E2%80%99m+Aayan+%F0%9F%91%8B;Applied+Math+%C3%97+Computer+Science+;National+Badminton+Player+%F0%9F%8F%B8" />
 </p>
 
-<p align="center">
-  <a href="mailto:aayanazhar2026@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aayanazhar2026%40gmail.com-informational?logo=gmail"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=<your-username>&style=flat-square">
-  <img alt="Last updated" src="https://img.shields.io/badge/updated-today-success">
-</p>
-
 Passionate Applied Mathematics & Computer Science student exploring the intersection of problem-solving, algorithms, and data visualization.
 I build math solvers, create data analysis tools, and enjoy applying theory to real-world problems through projects, competitions, and research.
 
