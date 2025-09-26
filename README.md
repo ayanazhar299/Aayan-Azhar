@@ -20,9 +20,6 @@ I write __GUI & database software__, build **web projects**, compete in __progra
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="42" alt="C"/>
   <img src="https://img.icons8.com/?size=48&id=uHZV38hOzCFA&format=png&color=000000" alt="MySQL"/>
 </p>
 
