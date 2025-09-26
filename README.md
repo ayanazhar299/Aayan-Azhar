@@ -11,15 +11,14 @@
 
 <h1 align="center">Applied Math × CS • SAT 1540 • Badminton (National)</h1>
 
-Certified **Python developer-in-progress** who loves building **clean GUIs**, **data tools**, and **visualizations**.  
-I write __GUI & database software__, build **web projects**, compete in __programming contests__, and study __data structures & algorithms__.
+Passionate Applied Mathematics & Computer Science student exploring the intersection of problem-solving, algorithms, and data visualization.
+I build math solvers, create data analysis tools, and enjoy applying theory to real-world problems through projects, competitions, and research.
 
 ---
 
 ### 🧰 Tech I use
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/?size=48&id=uHZV38hOzCFA&format=png&color=000000" alt="MySQL"/>
 </p>
 
